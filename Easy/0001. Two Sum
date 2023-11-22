@@ -20,4 +20,4 @@ class Solution
         System.out.print(arr[0]);
         System.out.print(arr[1]);
     }
-}
+};
